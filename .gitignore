@@ -1,0 +1,26 @@
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+*-checkpoint.ipynb
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+.*.sw?
+
+/.settings/
+
+/build/
+
+/cytoflowgui/help/
+
+# Eclipse bits
+.classpath
+.project
+.pydevproject
+
+# logicle build bits
+Logicle_wrap.cpp
+_Logicle.cpython-34m.so
+
